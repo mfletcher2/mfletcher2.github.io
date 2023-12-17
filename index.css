@@ -17,9 +17,8 @@
 }
 
 .icon {
-  height: 2in;
-  min-height: 1in;
-  margin-right: 5vw;
+  height: 15vh;
+  margin: 5vh;
 }
 
 .icon_link {
