@@ -24,3 +24,10 @@
 .icon_link {
   text-decoration: none;
 }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  font-size: 0.75rem;
+  font-family: "Noto Sans Mono";
+}
