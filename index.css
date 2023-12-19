@@ -19,6 +19,11 @@
 .icon {
   height: 15vh;
   margin: 5vh;
+  transition: all 0.2s ease-in-out;
+}
+
+.icon:hover {
+  transform: scale(1.1);
 }
 
 .icon_link {
